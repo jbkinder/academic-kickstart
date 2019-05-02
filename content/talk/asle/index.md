@@ -3,7 +3,7 @@ title = "Haze Theory: Materialisms and Agencies Up in Smoke"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-06-26T1:30:00
+date = 2019-06-26T13:30:00
 # date_end = 2030-06-01T15:00:00
 all_day = false
 
