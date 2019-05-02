@@ -20,6 +20,7 @@ googleAnalytics = "UA-137256947-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
+disable_comments = true
 
 ############################
 ## Advanced options below ##
