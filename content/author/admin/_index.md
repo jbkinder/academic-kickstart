@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Candidate and SSHRC Doctoral Fellow"
+role = "Research Director, Petrocultures Research Group"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "University of Alberta", url = "https://www.ualberta.ca/" }, { name = "Petrocultures Research Group", url = "http://petrocultures.com"}, { name = "Just Powers", url = "http://justpowers.ca"}, {name = "After Oil", url = "http://afteroil.ca"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Jordan B. Kinder is a citizen of the Métis Nation of Alberta and a PhD Candidate, SSHRC Doctoral Fellow, and Instructor in the Department of English and Film Studies at the University of Alberta in Edmonton, Alberta, Canada, which is located on Treaty 6 territory. He studies the cultural politics of energy, media, and infrastructure."
+bio = "Jordan B. Kinder is a citizen of the Métis Nation of Alberta and Research Director of the Petrocultures Research Group. He holds a PhD in English and Film Studies from the University of Alberta where he wrote a dissertation that studies the cultural politics of energy, media, infrastructure, and environment through a case study of the burgeoning pro-oil social movement in Canada."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -36,7 +36,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in English and Film Studies (ABD)"
+  course = "PhD in English and Film Studies"
   institution = "University of Alberta"
   year = 2019
 
@@ -84,6 +84,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Jordan B. Kinder is a citizen of the Métis Nation of Alberta and a PhD Candidate, SSHRC Doctoral Fellow, and Instructor in the Department of English and Film Studies at the University of Alberta in Edmonton, Alberta, Canada, which is located on Treaty 6 territory. He is co-administrator of the Petrocultures listserv and an active member of the Petrocultures Research Group.
+Jordan B. Kinder is a citizen of the Métis Nation of Alberta and Research Director of the Petrocultures Research Group. He holds a PhD in English and Film Studies from the University of Alberta where he wrote a dissertation that studies the cultural politics of energy, media, infrastructure, and environment through a case study of the burgeoning pro-oil social movement in Canada.
 
-He studies the cultural and environmental politics of energy, media, and infrastructure. His work appears in *The Bloomsbury Companion to Marx*, *Socialism and Democracy*, *Mediations*, *TOPIA: A Journal of Canadian Cultural Studies*, and elsewhere.   
+He studies the cultural and environmental politics of energy, media, and infrastructure. His work appears in *The Bloomsbury Companion to Marx*, *Socialism and Democracy*, *Mediations*, *TOPIA: A Journal of Canadian Cultural Studies*, and elsewhere. He currently lives and works in Tiohtiá:ke/Montréal, the traditional and unceded territory of the Kanien’keha:ka (Mohawk) peoples.

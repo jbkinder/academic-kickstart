@@ -18,12 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Director"
+  company = "Petrocultures Research Group"
+  company_url = "http://petrocultures.com"
+  location = "Edmonton, Alberta, Canada"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """
+
+  
+  """
+
+[[experience]]
   title = "Research Assistant"
   company = "Petrocultures Research Group"
   company_url = "http://petrocultures.com"
   location = "Edmonton, Alberta, Canada"
   date_start = "2015-05-01"
-  date_end = ""
+  date_end = "2019-05-31"
   description = """
 
   
@@ -35,7 +47,7 @@ date_format = "Jan 2006"
   company_url = "https://www.futureenergysystems.ca/"
   location = "Edmonton, Alberta, Canada"
   date_start = "2017-09-01"
-  date_end = ""
+  date_end = "2019-05-31"
   description = ""
 
 [[experience]]
