@@ -86,4 +86,4 @@ user_groups = ["Researchers", "Visitors"]
 
 Jordan B. Kinder is a citizen of the Métis Nation of Alberta and Research Director of the Petrocultures Research Group. He holds a PhD in English and Film Studies from the University of Alberta where he wrote a dissertation that studies the cultural politics of energy, media, infrastructure, and environment through a case study of the burgeoning pro-oil social movement in Canada.
 
-His work appears in *Energy Culture*, *The Bloomsbury Companion to Marx*, *Socialism and Democracy*, *Mediations*, *TOPIA: A Journal of Canadian Cultural Studies*, and elsewhere. He currently lives and works in Tiohtiá:ke/Montréal, the traditional and unceded territory of the Kanien’keha:ka (Mohawk) peoples.
+His work appears in *Energy Culture: Art and Theory on Oil and Beyond*, *The Bloomsbury Companion to Marx*, *Socialism and Democracy*, *Mediations*, *TOPIA: A Journal of Canadian Cultural Studies*, and elsewhere. He currently lives and works in Tiohtiá:ke/Montréal, the traditional and unceded territory of the Kanien’keha:ka (Mohawk) peoples.
