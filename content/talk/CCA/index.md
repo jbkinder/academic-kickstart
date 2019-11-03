@@ -17,10 +17,10 @@ authors = ["Jordan B. Kinder"]
 location = "Canadian Centre for Architecture/Centre Canadien d’Architecture, Montréal, QC, Canada"
 
 # Name of event and optional event URL.
-event = "CCA Doctoral Resident Research Colloquium "
+event = "CCA Doctoral Resident Research Colloquium"
 event_url = "https://www.cca.qc.ca/en/41082/cca-doctoral-students-program"
 
-Abstract. What's your talk about?
+# Abstract. What's your talk about?
 abstract = "This presentation examines the energy and infrastructural imaginaries expressed in material related to the Mackenzie Valley Pipeline project created in the 1970s by van Ginkel Associates Ltd. (VGA) for Canadian Arctic Gas Ltd. Such mapping of environmental and socio-economic landscapes, I argue, was premised upon an abstract notion of the “north” to be made concrete and legible to extractive epistemologies through empirically legitimated forms of knowledge production. It then situates this analysis in relation to the CCA exhibition *It’s All Happening So Fast*, showing how the exhibition’s practices of historicization and speculation offer a “cognitive map” of what I call the Canadian “extractive state apparatus.”"
 
 # Summary. An optional shortened abstract.
