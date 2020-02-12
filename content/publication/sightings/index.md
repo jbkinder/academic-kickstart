@@ -17,7 +17,7 @@ authors = ["Jordan B. Kinder"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Point of View Magazine*."
+publication = "*Point of View Magazine*"
 
 # Abstract.
 # abstract = 
@@ -28,7 +28,7 @@ publication = "*Point of View Magazine*."
 #doi = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -43,7 +43,7 @@ tags = ["Documentary", "Alberta"]
 projects = []
 
 # Links (optional).
-#url_pdf = "http://www.mediationsjournal.org/files/Mediations31_2_10.pdf"
+#url_pdf = ""
 url_source = "http://povmagazine.com/articles/view/alberta-sightings-of-the-land-and-its-people"
 
 # Custom links (optional).

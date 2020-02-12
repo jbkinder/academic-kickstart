@@ -55,8 +55,7 @@ phone = ""
 address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Tuesday 12:30 to 13:30<br>
-                  Thursday 12:30 to 13:30"""
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/jbkinder"
