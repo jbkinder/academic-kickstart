@@ -1,9 +1,9 @@
 +++
-title = "Gimme Shelter: The Tiny House Warriors and Indigenous Infrastructure as Media of Resistance"
+title = "Against Infrastructural Inertia: On the Canadian Extractive State Apparatus"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2020-06-02T13:30:00
+date = 2020-04-10T13:30:00
 # date_end = 2030-06-01T15:00:00
 all_day = false
 
@@ -14,11 +14,11 @@ publishDate = 2020-02-13T00:00:00
 authors = ["Jordan B. Kinder"]
 
 # Location of event.
-location = "University of Western Ontario, London, ON, Canada"
+location = "The New School for Social Research, New York, NY, USA"
 
 # Name of event and optional event URL.
-event = "Canadian Communication Association Annual Conference 2020/Conférence annuelle 2020 de l'Association canadienne des communications"
-event_url = "https://acc-cca.ca/"
+event = "9th Annual Radical Democracy Conference: Radical Ecologies"
+event_url = "https://www.radicaldemocracy.org/"
 
 # Abstract. What's your talk about?
 #abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."

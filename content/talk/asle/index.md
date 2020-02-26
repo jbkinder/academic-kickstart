@@ -14,7 +14,7 @@ publishDate = 2019-04-13T00:00:00
 authors = ["Jordan B. Kinder"]
 
 # Location of event.
-location = "University of California, Davis"
+location = "University of California, Davis, CA, USA"
 
 # Name of event and optional event URL.
 event = "2019 ASLE Conference"
