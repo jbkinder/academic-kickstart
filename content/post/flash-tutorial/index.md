@@ -5,7 +5,7 @@ title = "Brief Tutorial for Enabling Flash in Chrome"
 # Add a summary to display on homepage (optional).
 summary = "A brief review of Andrew Crosby and Jeffrey Monaghan's Policing Indigenous Movements: Dissent and the Security State"
 
-date = 2020-03261T16:19:38-06:00
+date = 2020-03-26T16:19:38-06:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
