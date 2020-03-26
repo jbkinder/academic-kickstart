@@ -3,7 +3,7 @@ title = "Brief Tutorial for Enabling Flash in Chrome"
 #subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "A brief review of Andrew Crosby and Jeffrey Monaghan's Policing Indigenous Movements: Dissent and the Security State"
+summary = ""
 
 date = 2020-03-26T16:19:38-06:00
 draft = false
