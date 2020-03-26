@@ -40,9 +40,9 @@ categories = []
 *Prezi* uses Adobe Flash Player, which is disabled by default in most web browsers. If you are having trouble enabling Adobe Flash Player in Google Chrome, see the brief instructions I've put together below. If you are using Safari, please follow the instructions in Adobe's tutorial linked [here](https://helpx.adobe.com/ca/flash-player/kb/enabling-flash-player-safari.html#later-macOS-versions). Adobe also has detailed instructions for Chrome, Safari, and Firefox [here](https://helpx.adobe.com/flash-player/kb/video-display-firefox-safari-chrome.html).
 
 If you see this screen when trying to open the remote Prezi:
-![Flashplayer Blocked](/home/jordan/git/jbkinder.github.io/content/post/flash-tutorial/blocked.png)
+![Flashplayer Blocked](./blocked.png)
 
 Click the lock symbol beside the URL bar and choose "Allow," then reload/refresh the page:
-![Allow](/home/jordan/git/jbkinder.github.io/content/post/flash-tutorial/allow.png)
+![Allow](./allow.png)
 
 
