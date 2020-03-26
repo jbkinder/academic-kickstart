@@ -5,7 +5,7 @@ title = "Brief Tutorial for Enabling Flash in Chrome"
 # Add a summary to display on homepage (optional).
 summary = ""
 
-date = 2020-03-26T16:19:38-06:00
+date = 2020-03-25T16:19:38-06:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
