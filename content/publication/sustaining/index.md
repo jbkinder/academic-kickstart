@@ -43,6 +43,7 @@ tags = ["Reclamation", "Oil Sands", "Ecocriticism"]
 projects = []
 
 # Links (optional).
+url_pdf = "https://drive.google.com/open?id=1I3IxPSRvrM6EXRs-f9ysqPjxj5j3MDus"
 url_source = "https://wvupressonline.com/node/805"
 
 # Custom links (optional).

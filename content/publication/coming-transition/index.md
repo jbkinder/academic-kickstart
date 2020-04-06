@@ -43,6 +43,7 @@ tags = ["Fossil Capital", "Energy Futures", "Energy Humanities", "Infrastructure
 projects = []
 
 # Links (optional).
+url_pdf = "https://drive.google.com/open?id=138TmclZ24-9RVhZEp9tKAer37ck13M4S"
 url_source = "https://www.tandfonline.com/doi/abs/10.1080/08854300.2016.1193335"
 
 # Custom links (optional).
