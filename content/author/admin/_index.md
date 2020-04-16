@@ -27,7 +27,8 @@ interests = [
   "Energy and Environmental Humanities",
   "Infrastructure Studies",
   "Cultural Studies",
-  "Critical Theory"
+  "Critical Theory",
+  "Energy Justice"
 ]
 
 # Organizational groups that you belong to (for People widget)
