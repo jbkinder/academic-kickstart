@@ -16,7 +16,7 @@ role = "Research Director, Petrocultures Research Group"
 organizations = [ { name = "University of Alberta", url = "https://www.ualberta.ca/" }, { name = "Petrocultures Research Group", url = "http://petrocultures.com"}, { name = "Just Powers", url = "http://justpowers.ca"}, {name = "After Oil", url = "http://afteroil.ca"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Jordan B. Kinder is a citizen of the Métis Nation of Alberta and Research Director of the Petrocultures Research Group. He holds a PhD in English and Film Studies from the University of Alberta where he wrote a dissertation that studies the cultural politics of energy, media, infrastructure, and environment through a case study of the burgeoning pro-oil social movement in Canada."
+bio = "Jordan B. Kinder is a citizen of the Métis Nation of Alberta, Research Director of the Petrocultures Research Group, and an incoming SSHRC Postdoctoral Fellow at McGill in the Department of Art History & Communication Studies. He holds a PhD in English and Film Studies from the University of Alberta where he wrote a dissertation that studies the cultural politics of energy, media, infrastructure, and environment through a case study of the burgeoning pro-oil social movement in Canada."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -84,7 +84,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Jordan B. Kinder is a media studies and environmental humanities scholar from what is now called northern British Columbia. He is a citizen of the Métis Nation of Alberta and currently works as Research Director of the Petrocultures Research Group (2019-2020). He holds a PhD in English and Film Studies from the University of Alberta where he wrote a dissertation that studies the cultural politics of energy, media, infrastructure, and environment through a case study of the burgeoning pro-oil social movement in Canada. His new research project, *Between Foreclosure and Possibility: Competing Energy Imaginaries in the Contemporary Canadian Mediascape*, examines extractive and post-extractive energy and infrastructural imaginaries through a series of infrastructural case studies and the cultural narratives that enframe them.
+Jordan B. Kinder is a media studies and environmental humanities scholar from what is now called northern British Columbia. He is a citizen of the Métis Nation of Alberta, currently works as Research Director of the Petrocultures Research Group (2019-2020), and is an incoming SSHRC Postdoctoral Fellow at McGill in the Department of Art History & Communication Studies. He holds a PhD in English and Film Studies from the University of Alberta where he wrote a dissertation that studies the cultural politics of energy, media, infrastructure, and environment through a case study of the burgeoning pro-oil social movement in Canada. His new research project, *Between Foreclosure and Possibility: Competing Energy Imaginaries in the Contemporary Canadian Mediascape*, examines extractive and post-extractive energy and infrastructural imaginaries through a series of infrastructural case studies and the cultural narratives that enframe them.
 
 His work can be found in *Energy Culture: Art and Theory on Oil and Beyond* (West Virginia UP), *The Bloomsbury Companion to Marx* (Bloomsbury Academic), *Socialism and Democracy*, *Mediations*, *TOPIA: A Journal of Canadian Cultural Studies*, and elsewhere. 
 

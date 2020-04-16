@@ -18,12 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Social Sciences and Humanities Research Council of Canada (SSHRC) Postdoctoral Fellow"
+  company = "Department of Art History & Communication Studies, McGill University"
+  company_url = "https://www.mcgill.ca/ahcs/"
+  location = "Montréal, Québec, Canada"
+  date_start = "2020-05-01"
+  date_end = ""
+  description = """
+
+  
+  """
+  
+[[experience]]
   title = "Research Director"
   company = "Petrocultures Research Group"
   company_url = "http://petrocultures.com"
   location = "Edmonton, Alberta, Canada"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2020-04-30"
   description = """
 
   
