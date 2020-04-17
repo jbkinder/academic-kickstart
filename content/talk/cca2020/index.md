@@ -1,5 +1,5 @@
 +++
-title = "Gimme Shelter: The Tiny House Warriors and Indigenous Infrastructure as Media of Resistance"
+title = "Gimme Shelter: The Tiny House Warriors and Indigenous Infrastructure as Media of Resistance [Cancelled]"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

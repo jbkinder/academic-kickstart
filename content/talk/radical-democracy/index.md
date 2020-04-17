@@ -1,5 +1,5 @@
 +++
-title = "Against Infrastructural Inertia: On the Canadian Extractive State Apparatus"
+title = "Against Infrastructural Inertia: On the Canadian Extractive State Apparatus [Postponed]"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
