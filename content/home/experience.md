@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Social Sciences and Humanities Research Council of Canada (SSHRC) Postdoctoral Fellow"
+  title = "Social Sciences and Humanities Research Council of Canada (SSHRC) | Fonds de recherche du Québec – Société et culture (FRQSC) Postdoctoral Fellow"
   company = "Department of Art History & Communication Studies, McGill University"
   company_url = "https://www.mcgill.ca/ahcs/"
   location = "Montréal, Québec, Canada"
