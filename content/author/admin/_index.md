@@ -24,6 +24,7 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Media and Communications Studies",
+  "Environmental Communication,"
   "Energy and Environmental Humanities",
   "Infrastructure Studies",
   "Cultural Studies",
