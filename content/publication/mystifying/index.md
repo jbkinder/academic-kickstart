@@ -1,6 +1,6 @@
 +++
-title = "From dirty oil to ethical oil: Petroturfing and the cultural politics of Canadian oil after social media"
-date = 2020-08-25T00:00:00
+title = "Mystifying Oil Today"
+date = 2020-11-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jordan B. Kinder"]
@@ -14,10 +14,10 @@ authors = ["Jordan B. Kinder"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Environmental Media*"
+publication = "*Heliotrope*"
 
 # Abstract.
 # abstract = 
@@ -25,14 +25,14 @@ publication = "*Journal of Environmental Media*"
 # summary = 
 
 # Digital Object Identifier (DOI)
-doi = "10.1386/jem_00014_1"
+doi = ""
 
 # Is this a featured publication? (true/false)
 featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Fossil Capital", "Social Media", "Activism"]
+tags = ["Energy Futures", "Infrastructure"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -40,11 +40,11 @@ tags = ["Fossil Capital", "Social Media", "Activism"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["Petroturfing"]
+projects = []
 
 # Links (optional).
-url_pdf = ""
-url_source = "https://www.ingentaconnect.com/contentone/intellect/jem/2020/00000001/00000002/art00005"
+url_pdf = []
+url_source = "https://www.environmentalmedialab.com/heliotrope/mystifying-oil-today"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
