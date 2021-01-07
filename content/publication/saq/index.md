@@ -19,7 +19,7 @@ publication_types = ["2"]
 # Publication name and optional abbreviated version.
 publication = "*South Atlantic Quarterly*"
 
-Abstract.
+# Abstract.
 # abstract = 
 # Summary. An optional shortened abstract.
 # summary = 
