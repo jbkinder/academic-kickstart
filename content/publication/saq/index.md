@@ -16,7 +16,7 @@ authors = ["Jordan B. Kinder"]
 # 6 = Book section
 publication_types = ["2"]
 
-# Publication name and optional abbreviated version.
+# Publication name and optional abbreviated version
 publication = "*South Atlantic Quarterly*"
 
 Abstract.
