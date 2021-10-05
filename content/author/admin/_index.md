@@ -91,4 +91,4 @@ Jordan B. Kinder is a media studies and environmental humanities scholar and act
 
 His work can be found in *South Atlantic Quarterly*, the *Canadian Journal of Communication*, *Energy Culture: Art and Theory on Oil and Beyond* (West Virginia UP), *The Bloomsbury Companion to Marx* (Bloomsbury Academic), *Socialism and Democracy*, *Mediations*, and elsewhere. 
 
-He currently lives and works in Tiohtiá:ke (Montréal), the custodians of which are recognized as the Kanien’keha:ka (Mohawk) peoples.
+He currently lives and works in Tiohtiá:ke (Montréal), the caretakers of which are recognized as the Kanien’keha:ka (Mohawk) peoples.
