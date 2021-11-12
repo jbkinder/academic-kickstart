@@ -3,8 +3,8 @@ title = "The Canadian Extractive State Apparatus in the Pandemic Present"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2021-01-10T13:45:00
-date_end = 2021-01-10T15:00:00
+date = 2021-11-14T09:00:00
+date_end = 2021-11-14T11:00:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
