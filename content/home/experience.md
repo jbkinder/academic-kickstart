@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://mahindrahumanities.fas.harvard.edu/"
   location = "Cambridge, MA, USA"
   date_start = "2022-09-01"
-  date_end = "2022-08-31"
+  date_end = "2023-08-31"
   description = """
 
   
