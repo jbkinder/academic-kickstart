@@ -18,6 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Assistant Professor"
+  company = "Department of Communication Studies and Cultural Studies, Wilfrid Laurier University"
+  company_url = "https://www.wlu.ca/academics/faculties/faculty-of-arts/index.html"
+  location = "Waterloo, ON, Canada"
+  date_start = "2023-09-01"
+  date_end = ""
+  description = """
+
+  
+  """
+
+[[experience]]
   title = "Postdoctoral Fellow"
   company = "Mahindra Humanities Center, Harvard University"
   company_url = "https://mahindrahumanities.fas.harvard.edu/"
