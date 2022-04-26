@@ -3,7 +3,7 @@ title = "Architectures of Resistance: Indigenous Futurisms and the Built Environ
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2022-08
+date = 2022-08-24
 # date_end = 2030-06-01T15:00:00
 all_day = false
 

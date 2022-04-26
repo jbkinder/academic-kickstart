@@ -3,7 +3,7 @@ title = "Ambivalence and Intensity: The Energy Cultures and Media Materialities 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2022-03
+date = 2022-03-31
 # date_end = 2030-06-01T15:00:00
 all_day = false
 

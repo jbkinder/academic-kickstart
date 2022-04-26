@@ -3,7 +3,7 @@ title = "Jerry Can Imaginaries: Fossil Fascist Horizons and the Politics of Comb
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2022-06
+date = 2022-06-17
 # date_end = 2030-06-01T15:00:00
 all_day = false
 
