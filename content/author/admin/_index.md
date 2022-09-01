@@ -9,14 +9,14 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "SSHRC-FRQSC Postdoctoral Fellow"
+role = "Postdoctoral Fellow in Environmental Humanities"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "McGill University", url = "https://mcgill.ca/" }, { name = "Petrocultures Research Group", url = "http://petrocultures.com"}, { name = "Grierson Research Group", url = "https://www.griersonresearchgroup.ca"}, { name = "Just Powers", url = "http://justpowers.ca"}, {name = "After Oil", url = "http://afteroil.ca"} ]
+organizations = [ { name = "Mahindra Humanities Center, Harvard University", url = "https://mahindrahumanities.fas.harvard.edu/" }, { name = "Petrocultures Research Group", url = "http://petrocultures.com"}, { name = "Grierson Research Group", url = "https://www.griersonresearchgroup.ca"}, { name = "Just Powers", url = "http://justpowers.ca"}, {name = "After Oil", url = "http://afteroil.ca"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Jordan B. Kinder is currently a SSHRC-FRQSC Postdoctoral Fellow at McGill University in the Department of Art History & Communication Studies, and a citizen of the Métis Nation of Alberta. He holds a PhD in English and Film Studies from the University of Alberta where he wrote a dissertation that studies the cultural politics of energy, media, infrastructure, and environment through a case study of the burgeoning pro-oil movement in Canada. Over 2022-23, he will be a Mahindra Humanities Center Postdoctoral Fellow at Harvard University. In Fall 2023, he will be an assistant professor in the Department of Communication Studies and Cultural Studies at Wilfrid Laurier University."
+bio = "Jordan B. Kinder is currently a Mahindra Humanities Center Postdoctoral Fellow in Environmental Humanities at Harvard University (2022-23), and a citizen of the Métis Nation of Alberta. He holds a PhD in English and Film Studies from the University of Alberta where he wrote a dissertation that studies the cultural politics of energy, media, infrastructure, and environment through a case study of the burgeoning pro-oil movement in Canada. In Fall 2023, he will be an assistant professor in the Department of Communication Studies and Cultural Studies at Wilfrid Laurier University."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -87,8 +87,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Jordan B. Kinder is a media studies and environmental humanities scholar and activist from what is now called northern British Columbia. He is a citizen of the Métis Nation of Alberta, and is currently a SSHRC-FRQSC Postdoctoral Fellow at McGill University in the Department of Art History & Communication Studies. Over 2022-23, he will be a Postdoctoral Fellow with the Mahindra Humanities Center at Harvard University. In Fall 2023, he will be an assistant professor in the Department of Communication Studies and Cultural Studies at Wilfrid Laurier University. He holds a PhD in English and Film Studies from the University of Alberta where he wrote a dissertation that studies the cultural politics of energy, media, infrastructure, and environment through a case study of the burgeoning pro-oil movement in Canada. His new research project, *Between Foreclosure and Possibility: Competing Energy Imaginaries in the Contemporary Canadian Mediascape*, examines extractive and post-extractive energy and infrastructural imaginaries through a series of infrastructural case studies.
+Jordan B. Kinder is a media studies and environmental humanities scholar and activist from what is now called northern British Columbia. He is a citizen of the Métis Nation of Alberta, and is currently a Postdoctoral Fellow in Environmental Humanities with the Mahindra Humanities Center at Harvard University. In Fall 2023, he will be an assistant professor in the Department of Communication Studies and Cultural Studies at Wilfrid Laurier University. He holds a PhD in English and Film Studies from the University of Alberta where he wrote a dissertation that studies the cultural politics of energy, media, infrastructure, and environment through a case study of the burgeoning pro-oil movement in Canada. His new research project, *Between Foreclosure and Possibility: Competing Energy Imaginaries in the Contemporary Canadian Mediascape*, examines extractive and post-extractive energy and infrastructural imaginaries through a series of infrastructural case studies.
 
 His work can be found in *South Atlantic Quarterly*, the *Canadian Journal of Communication*, *Energy Culture: Art and Theory on Oil and Beyond* (West Virginia UP), *The Bloomsbury Companion to Marx* (Bloomsbury Academic), *Socialism and Democracy*, *Mediations*, and elsewhere. 
 
-He currently lives and works in Tiohtiá:ke (Montréal), which sits on the unceded territory of the Kanien’keha:ka (Mohawk) peoples.
+He currently lives and works in Tiohtiá:ke (Montréal), which sits on the unceded territory of the Kanien’keha:ka (Mohawk) peoples, and in Cambridge, MA, the ancestral land of the Massachusett peoples.
