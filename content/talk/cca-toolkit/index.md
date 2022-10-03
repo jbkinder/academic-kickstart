@@ -1,9 +1,9 @@
 +++
-title = "The Extractivist Archive: Mapping the Canadian Extractive State Apparatus in It’s All Happening So Fast"
+title = "The Carbon Present is … unevenly experienced and imagined"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-07-22T13:30:00
+date = 2022-07-14T14:30:00
 # date_end = 2030-06-01T15:00:00
 all_day = true
 
@@ -17,11 +17,11 @@ authors = ["Jordan B. Kinder"]
 location = "Canadian Centre for Architecture/Centre Canadien d’Architecture, Montréal, QC, Canada"
 
 # Name of event and optional event URL.
-event = "CCA Doctoral Resident Research Colloquium"
-event_url = "https://www.cca.qc.ca/en/41082/cca-doctoral-students-program"
+event = "Toolkit for Today: Carbon Present"
+event_url = "https://www.cca.qc.ca/en/events/86249/the-carbon-present-is-unevenly-experienced-and-imagined"
 
 # Abstract. What's your talk about?
-abstract = "This presentation examines the energy and infrastructural imaginaries expressed in material related to the Mackenzie Valley Pipeline project created in the 1970s by van Ginkel Associates Ltd. (VGA) for Canadian Arctic Gas Ltd. Such mapping of environmental and socio-economic landscapes, I argue, was premised upon an abstract notion of the “north” to be made concrete and legible to extractive epistemologies through empirically legitimated forms of knowledge production. It then situates this analysis in relation to the CCA exhibition *It’s All Happening So Fast*, showing how the exhibition’s practices of historicization and speculation offer a “cognitive map” of what I call the Canadian “extractive state apparatus."
+abstract = "How we experience and imagine fossil fuels and their infrastructures plays a significant role in influencing our relationship to them and, in turn, shapes the prospects for transition so necessary for cooling the rapidly warming planet. In this seminar, part of Toolkit for Today: Carbon Present, Jordan B. Kinder explores how the costs and benefits of fossil fuels and their infrastructures are unevenly experienced and imagined in relation to two natural gas pipeline projects: the failed Mackenzie Valley Pipeline and the in-construction Coastal GasLink Pipeline. Contestation over these settler colonial infrastructures has been staged not only over the usual suspects of land, territory, and jurisdiction, but also in terms of conflicting ways of experiencing and imagining energy and infrastructure. Developing the concepts of energy consciousness and energy imaginaries to address these conflicts centred on energy futures materialized through the built environment, this seminar offers a critical vocabulary for confronting the uneven dimensions of our carbon present while accounting for strategies of resistance that offer ways out of this present; a present defined by carbon lock-in and path dependency."
 
 # Summary. An optional shortened abstract.
 #summary = "An example talk using Academic's Markdown slides feature."
