@@ -1,6 +1,6 @@
 +++
-title = "Settler Infrastructuralism: A Review of Rafico Ruiz's Slow Disturbance"
-date = 2022-09-01T00:00:00
+title = "Tailings, Unconventional: Sedimented Horizons for More Equitable Energy Futures"
+date = 2022-12-05T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jordan B. Kinder"]
@@ -14,10 +14,10 @@ authors = ["Jordan B. Kinder"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "*Jump Cut*"
+publication = "*Against Catastrophe: Energy Drop*"
 
 # Abstract.
 # abstract = 
@@ -25,14 +25,14 @@ publication = "*Jump Cut*"
 # summary = 
 
 # Digital Object Identifier (DOI)
-#doi = "10.1080/08854300.2016.1193335"
+doi = ""
 
 # Is this a featured publication? (true/false)
 featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Fossil Capital", "Materialism", "Fossil Economy", "New Materialism", "Climate Change"]
+tags = ["Energy Futures", "Infrastructure"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,8 +43,8 @@ tags = ["Fossil Capital", "Materialism", "Fossil Economy", "New Materialism", "C
 projects = []
 
 # Links (optional).
-#url_pdf = "http://www.mediationsjournal.org/files/Mediations31_2_10.pdf"
-url_source = "https://www.ejumpcut.org/currentissue/JordanKinder/index.html"
+#url_pdf = []
+url_source = "https://againstcatastrophe.net/energydispatchblog/kinder"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
