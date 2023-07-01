@@ -1,10 +1,10 @@
 +++
-title = "Gas Can Imaginaries: Fossil Fascist Horizons and the Politics of Combustion"
+title = "Landscape as Infrastructure in the Shadow of Oil Sands Reclamation"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2022-06-17
-# date_end = 2030-06-01T15:00:00
+date = 2023-07-12T10:30:00
+#date_end = 2021-08-06T15:00:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
@@ -14,11 +14,11 @@ publishDate = 2019-04-13T00:00:00
 authors = ["Jordan B. Kinder"]
 
 # Location of event.
-location = "Macdonald Campus, McGill University, Sainte-Anne-de-Bellevue, QC"
+location = "Oregon Convention Center, Portland, OR, USA"
 
 # Name of event and optional event URL.
-event = "Media Rurality"
-# event_url = "https://www.4sonline.org/meeting/"
+event = "2023 Conference of the Association for the Study of Literature and Environment (ASLE) The Association for Environmental Studies and Sciences (AESS)"
+event_url = "https://www.asle.org/conference/biennial-conference/"
 
 # Abstract. What's your talk about?
 #abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."

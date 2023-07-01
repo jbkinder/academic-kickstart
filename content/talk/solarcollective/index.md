@@ -1,27 +1,27 @@
 +++
-title = "Gas Can Imaginaries: Fossil Fascist Horizons and the Politics of Combustion"
+title = "Building Solar Relations: Social, Political, and Economic Transformations towards Energy Justice"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2022-06-17
+date = 2023-05-11T15:00:00
 # date_end = 2030-06-01T15:00:00
-all_day = false
+all_day = true
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2019-04-13T00:00:00
+publishDate = 2019-11-02T16:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jordan B. Kinder"]
 
 # Location of event.
-location = "Macdonald Campus, McGill University, Sainte-Anne-de-Bellevue, QC"
+location = "Concordia University, Montréal, QC, Canada"
 
 # Name of event and optional event URL.
-event = "Media Rurality"
-# event_url = "https://www.4sonline.org/meeting/"
+event = "Situated Solar Relations: Rethinking Scale for the Renewable Energy Age"
+event_url = ""
 
 # Abstract. What's your talk about?
-#abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+#abstract = ""
 
 # Summary. An optional shortened abstract.
 #summary = "An example talk using Academic's Markdown slides feature."

@@ -1,27 +1,27 @@
 +++
-title = "Gas Can Imaginaries: Fossil Fascist Horizons and the Politics of Combustion"
+title = "Disrupting Infrastructural Inertia: On Settler and Indigenous Infrastructuralisms"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2022-06-17
+date = 2023-05-27T18:00:00
 # date_end = 2030-06-01T15:00:00
-all_day = false
+all_day = true
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2019-04-13T00:00:00
+publishDate = 2019-11-02T16:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jordan B. Kinder"]
 
 # Location of event.
-location = "Macdonald Campus, McGill University, Sainte-Anne-de-Bellevue, QC"
+location = "TU Dresden, Dresden, Germany"
 
 # Name of event and optional event URL.
-event = "Media Rurality"
-# event_url = "https://www.4sonline.org/meeting/"
+event = ""
+event_url = ""
 
 # Abstract. What's your talk about?
-#abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+#abstract = ""
 
 # Summary. An optional shortened abstract.
 #summary = "An example talk using Academic's Markdown slides feature."
@@ -31,7 +31,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["extractivism", "settler colonialism", "energy imaginaries", "extractive state apparatus"]
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
