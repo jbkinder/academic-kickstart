@@ -3,7 +3,7 @@ title = "Digital Energetics"
 date = 2022-06-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Anne Pasek", "Cindy Kaiying Lin", "Zane Griffin Talley Cooper", and "Jordan B. Kinder"]
+authors = ["Anne Pasek", "Cindy Kaiying Lin", "Zane Griffin Talley Cooper", "Jordan B. Kinder"]
 
 # Publication type.
 # Legend:
