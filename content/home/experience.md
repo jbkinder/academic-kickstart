@@ -22,8 +22,20 @@ date_format = "Jan 2006"
   company = "Department of Communication Studies and Cultural Studies, Wilfrid Laurier University"
   company_url = "https://www.wlu.ca/academics/faculties/faculty-of-arts/index.html"
   location = "Waterloo, ON, Canada"
-  date_start = "2023-09-01"
+  date_start = "2023-07-01"
   date_end = ""
+  description = """
+
+  
+  """
+
+[[experience]]
+  title = "Research Associate"
+  company = "Mahindra Humanities Center, Harvard University"
+  company_url = "https://mahindrahumanities.fas.harvard.edu/"
+  location = "Cambridge, MA, USA"
+  date_start = "2023-09-01"
+  date_end = "2024-08-31"
   description = """
 
   
