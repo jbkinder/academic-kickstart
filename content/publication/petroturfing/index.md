@@ -1,9 +1,9 @@
 +++
-title = "Digital Energetics"
-date = 2023-06-01T00:00:00
+title = "Petroturfing: Refining Canadian Oil through Social Media"
+date = 2026-06-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Anne Pasek", "Cindy Kaiying Lin", "Zane Griffin Talley Cooper", "Jordan B. Kinder"]
+authors = [Jordan B. Kinder"]
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ authors = ["Anne Pasek", "Cindy Kaiying Lin", "Zane Griffin Talley Cooper", "Jor
 publication_types = ["5"]
 
 # Publication name and optional abbreviated version.
-publication = "*Digital Energetics*"
+publication = "*Petroturfing*"
 
 # Abstract.
 # abstract = 
@@ -32,7 +32,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Energy Humanities", "Energy Transition", "Infrastructure"]
+tags = ["Energy Humanities", "Energy Transition", "Petroturfing"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,8 +43,8 @@ tags = ["Energy Humanities", "Energy Transition", "Infrastructure"]
 projects = []
 
 # Links (optional).
-url_pdf = "https://meson.press/wp-content/uploads/2023/06/978-3-95796-058-0-Digital-Energetics.pdf"
-url_source = "https://www.upress.umn.edu/book-division/books/digital-energetics"
+#url_pdf = ""
+url_source = "https://www.upress.umn.edu/book-division/books/petroturfing"
 
 
 # Custom links (optional).
