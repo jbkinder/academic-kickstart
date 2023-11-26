@@ -1,6 +1,6 @@
 +++
 title = "Petroturfing: Refining Canadian Oil through Social Media"
-date = 2026-06-01T00:00:00
+date = 2023-11-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jordan B. Kinder"]
