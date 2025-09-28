@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Assistant Professor"
-  company = "Department of Communication Studies and Cultural Studies, Wilfrid Laurier University"
+  company = "Department of Media, Communication, and Culture, New York University"
   company_url = "https://steinhardt.nyu.edu/departments/media-culture-and-communication"
   location = "New York, NY, USA"
   date_start = "2025-09-01"
