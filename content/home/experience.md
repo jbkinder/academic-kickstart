@@ -20,10 +20,21 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Assistant Professor"
   company = "Department of Communication Studies and Cultural Studies, Wilfrid Laurier University"
+  company_url = "https://steinhardt.nyu.edu/departments/media-culture-and-communication"
+  location = "New York, NY, USA"
+  date_start = "2025-09-01"
+  date_end = ""
+  description = """
+
+  """
+  
+[[experience]]  
+  title = "Assistant Professor"
+  company = "Department of Communication Studies and Cultural Studies, Wilfrid Laurier University"
   company_url = "https://www.wlu.ca/academics/faculties/faculty-of-arts/index.html"
   location = "Waterloo, ON, Canada"
   date_start = "2023-07-01"
-  date_end = ""
+  date_end = "2025-06-30"
   description = """
 
   
